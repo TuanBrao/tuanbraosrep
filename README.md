@@ -1,4 +1,6 @@
-tuanbraosrep
+tuanbrao
+sleepin.pineapple@gmail.com
+
 ============
 
-private repository
+my java repository
